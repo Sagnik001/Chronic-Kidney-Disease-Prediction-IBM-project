@@ -1,1 +1,1 @@
-# Chronic-Kidney-Disease-Prediction-IBM-project
+# Chronic-Kidney-Disease-Prediction-IBM-Capstone-Project
